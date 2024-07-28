@@ -1,2 +1,3 @@
-console.log("Hello, world!");
-let name;
+function add(a, b) {
+  return a + b;
+}
